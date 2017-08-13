@@ -1,0 +1,4 @@
+In order to see the Webpage in Chrome, we need provide CORS support.
+Cross Origin Resource Sharing to allow cross domain request.
+
+It is working fine in IE, Mozilla and Other Browsers.
